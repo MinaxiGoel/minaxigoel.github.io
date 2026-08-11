@@ -1,0 +1,16 @@
+# Source decks and local Office temp files
+*.pptx
+~$*
+
+# Local reference files not used by the public site
+Google_Quant_UXR_Portfolio_Minaxi_Goel 1.pptx
+Testing & optimization - case studies.pptx
+User Researcher - JD.pdf
+jd-page.png
+Minaxi_Goel_Resume.pdf
+
+# Award source files superseded by public cropped/combined assets
+Awards & Recognitions/Customer Champion Award Description.png
+Awards & Recognitions/Minaxi Goel - Customer Champion Award - March 2026.pdf
+Awards & Recognitions/Minaxi Goel - Innovation Award.pptx
+Awards & Recognitions/Minaxi Goel - Innovation Award.pdf
